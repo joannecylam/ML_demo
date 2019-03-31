@@ -1,0 +1,22 @@
+# ML basic
+numpy==1.16.2
+scipy==1.2.1
+pandas==0.24.1
+scikit-learn
+jupyter
+
+# Plotting in python
+matplotlib
+seaborn
+requests
+
+# For NLP
+nltk
+docx2txt
+google-api-python-client
+beautifulsoup4
+
+# For Deep Learning Model
+gensim
+tensorflow
+keras
